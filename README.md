@@ -1,6 +1,6 @@
 # Veracast 🔗
 
-**Post it. Prove it. Spread it.**
+**Post it. Prove it. Spread it.** 
 
 A social media platform for news and current events where every factual claim must be backed by a verifiable source — enforced at post time, with real keyword matching between your post and the source URL.
 
